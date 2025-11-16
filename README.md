@@ -27,3 +27,21 @@ https://bumpy-spur-705.notion.site/OKTA-ROADMAP-HUGO-2acdfa18edd7804f9fb4e0ee665
 **Bordeaux · Full remote · Disponible Q3 2026 · 110-130k€ / 900-1200€/j**
 
 https://www.linkedin.com/in/hugo-parmentier-611b13129/ Disponible pour missions Okta + AI Agents
+
+
+## Journal de bord – Roadmap Okta 2025 (mis à jour quotidien)
+
+| Date | Tâche accomplie | Lien / Preuve | Statut |
+|------|------------------|---------------|--------|
+| 16 nov 2025 | Création repo GitHub + structure | https://github.com/TraX-33/okta-iam-expert-2025 | ✅ |
+| 16 nov 2025 | Inscription **Developer Edition** (Integrator plan) | `dev-XXXXXX.okta.com` | ✅ |
+| **18 déc 2025** | Créer tenant + Module 1 | [Module 1](https://learning.okta.com/course/view.php?id=1001) | ⏳ |
+| **18 déc 2025** | Commit `01-create-user.py` | `professional/01-create-user.py` | ⏳ |
+| **13 janv 2026** | **Exam Professional** | [Résultat](https://certification.okta.com) | ⏳ |
+| **10 févr 2026** | **Exam Administrator** | — | ⏳ |
+| **17 mars 2026** | **Exam Consultant** | — | ⏳ |
+| **21 avril 2026** | **Exam Developer** | — | ⏳ |
+
+> **Objectif** : 4 certifs + PoC AI Agents → **120k+ / 1000€+ TJM Q2 2026**  
+> **Temps/jour** : 2-3h max (9h-18h lun-ven)  
+> **Weekend** : 100 % off (famille first)
