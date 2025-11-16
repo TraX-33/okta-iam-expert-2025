@@ -23,3 +23,7 @@ Python · Okta Workflows · Inline Hooks · Terraform · AI Risk Scoring
 
 
 https://bumpy-spur-705.notion.site/OKTA-ROADMAP-HUGO-2acdfa18edd7804f9fb4e0ee665ccda1
+
+**Bordeaux · Full remote · Disponible Q3 2026 · 110-130k€ / 900-1200€/j**
+
+https://www.linkedin.com/in/hugo-parmentier-611b13129/ Disponible pour missions Okta + AI Agents
