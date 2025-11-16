@@ -14,3 +14,6 @@ ROADMAP OKTA CERTIFICATION
 
 ### Tech stack
 Python · Okta Workflows · Inline Hooks · Terraform · AI Risk Scoring
+
+
+https://bumpy-spur-705.notion.site/OKTA-ROADMAP-HUGO-2acdfa18edd7804f9fb4e0ee665ccda1
